@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/luccafgf/wwdc-2019/master/WWDC2019.playground/Resources/Images/hi.png" width="550" title="Hi!">
+
 # WWDC 2019
 This game aims at a playful and interactive introduction to American Sign Language
 
