@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/luccafgf/wwdc-2019/master/WWDC2019.playground/Resources/Images/hi.png" width="550" title="Hi!">
 
 # WWDC 2019
-This game aims at a playful and interactive introduction to American Sign Language
+This game aims at a playful and interactive introduction to American Sign Language.
 
 ## Motivation
 My goal in making this playground was to work on a knowledge I was currently studying (machine learning) to create a solution that was interesting and dynamic to some existing problem. Talking with some friends about American Sign Language, I saw an opportunity to create something that could help facilitate the learning of this alphabet.
